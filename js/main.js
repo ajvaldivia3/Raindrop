@@ -31,7 +31,6 @@
 var drop;
 var canvasHeight = 360;
 var canvasWidth = 640;
-
 function setup(){
     createCanvas(canvasWidth,canvasHeight);
     drop = new Drop();
